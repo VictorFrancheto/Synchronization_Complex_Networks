@@ -1,8 +1,8 @@
 # Synchorization in Complex Networks
-Repository aimed at explaining the mathematical concepts covered in machine learning algorithms
+Repository dedicated to explaining concepts and implementations related to synchronization in complex networks.
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/network.jpg">
+  <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/network.JPG">
 </p>
 
 # Victor Hugo Francheto
