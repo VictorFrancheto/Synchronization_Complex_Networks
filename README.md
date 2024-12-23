@@ -16,5 +16,5 @@ Repository dedicated to explaining concepts and implementations related to synch
 
 
 ## Projects:
-* Synchronization in Complex Networks (__Notebook_Synchronization__.ipynb). [Matéria no Medium]([https://abrir.link/RINFr](https://medium.com/@victor.h.f.francheto/synchronization-in-complex-networks-17e4380432ce))
+* Synchronization in Complex Networks (__Notebook_Synchronization__.ipynb). [Matéria no Medium]([https://medium.com/@victor.h.f.francheto/synchronization-in-complex-networks-17e4380432ce])
   
